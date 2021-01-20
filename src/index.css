@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+  font-family: 'Poppins', sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: 'Montserrat', sans-serif !important;
+}
+.main-content-area{
+  min-height: 100vh;
+}
+.navbar.sm-navbar ul.navbar-nav > li > a {
+  padding: 30px 15px;
+}

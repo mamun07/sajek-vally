@@ -1,0 +1,52 @@
+{
+    "name": "Sajek Vally",
+    "Hero_slider" :
+    [
+        {
+            "id": "01",
+            "title":"Visit Sajek Vally For Winter Freshness",
+            "sub_title":"Travel Sajek Vally",
+            "description":"Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District.",
+            "btn_text": "View More",
+            "link": "/about-us"
+        }
+    ],
+    "features":
+    [
+        {
+            "id": "01",
+            "title":"Best Sajek Resort",
+            "description":"Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong",
+            "fimage": "./images/2.jpg",
+            "btn_text": "View More",
+            "link": "/about-us"
+        },
+        {
+            "id": "02",
+            "title":"Sajek Sunset View",
+            "description":"Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong",
+            "fimage": "./images/1.jpg",
+            "btn_text": "View More",
+            "link": "/about-us"
+        },
+        {
+            "id": "03",
+            "title":"Sajek Way",
+            "description":"Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong",
+            "fimage": "./images/3.jpg",
+            "btn_text": "View More",
+            "link": "/about-us"
+        }
+    ],
+    "about_home":
+    [
+        {
+            "id": "01",
+            "title":"Best Sajek Resort",
+            "description":"Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong,Sajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the KasalongSajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the KasalongSajek Valley is an emerging tourist spot in Bangladesh situated among the hills of the Kasalong",
+            "fimage": "./images/2.jpg",
+            "btn_text": "View More",
+            "link": "/about-us"
+        }
+    ]
+}
