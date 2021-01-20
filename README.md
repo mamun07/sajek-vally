@@ -1,1 +1,1 @@
-# Sajek Vally is a react js travel template for user
+# Strat with Sajek Vally Travel App
